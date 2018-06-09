@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "243705518883",
+    "firebase_url": "https://smer3-bce32.firebaseio.com",
+    "project_id": "smer3-bce32",
+    "storage_bucket": "smer3-bce32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243705518883:android:c8ad858d122dcd1e",
+        "android_client_info": {
+          "package_name": "com.example.chrisantus.smer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243705518883-fltsiet767kf9amgu6q88m08b7fg7fkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAfuSLEwpMpSRbSv1FRSMz-y_2PqGyDgw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
